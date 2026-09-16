@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "Si usa esta guía, por favor cítelo de la siguiente manera."
+title: "Guía paso a paso de QIIME2 — Proyecto Rhogeessa"
+authors:
+  - family-names: "Arias-Arias"
+    given-names: "E. Antonio"
+    affiliation: "Universidad de Caldas"
+version: 1.0.0
+date-released: 2026-09-16
+repository-code: "https://github.com/ariasariasedwin096-dotcom/qiime2-rhogeessa-guia-"
+license: CC-BY-4.0
