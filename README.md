@@ -19,3 +19,4 @@ Guía de análisis de secuencias 16S (región V3-V4, cebadores 341F/806R) con QI
 ## Autor
 
 E. Antonio Arias-Arias
+[![DOI](https://zenodo.org/badge/1322161926.svg)](https://doi.org/10.5281/zenodo.22803027)
